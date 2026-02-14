@@ -1,14 +1,14 @@
 # CS-499-Capstone-Project
 ## Overview
-Hello welcome to my CS 499 Capstone Project. I will be talking about my three enhancements for the projects that I have worked on at SNHU. My first two enhancements will be from my CS 250 Software Development Lifecycle class and the last one will be from my DAD 220 Introduction to SQL class. I will break it down as follows:
+Hello welcome to my CS 499 Capstone Project. I will be talking about my three enhancements for the projects that I have worked on at SNHU. My first two enhancements will be from my CS 250 Software Development Lifecycle class and the last one will be from my DAD 220 Introduction to SQL class. I will break it down each section, as follows:
  - [Enhancement One](#enhancement-one)
  - [Enhancement Two](#enhancement-two)
  - [Enhancement Three](#enhancement-three)
  - [Code Review](#code-review)
  - [Professional Self Assessment](#professional-self-assessment)
 
-## Enhancement One
-
+# Enhancement One
+For the first Enhancement, it talks about the 
 
 ## Enhancement Two
 
