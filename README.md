@@ -8,7 +8,8 @@ Hello welcome to my CS 499 Capstone Project. I will be talking about my three en
  - [Professional Self Assessment](#professional-self-assessment)
 
 ## Enhancement One
-My course project was a slide show that included 5 top destinations that I did for my SNHU travel project. Within each slide show, it stated the location and small description. Also, on each slide you could click on the image and it would redirect you to the website of the destination. 
+My course project was a slide show that included 5 top destinations that I did for my SNHU travel project. Within each slide show, it stated the location and small description. Also, on each slide you could click on the image and it would redirect you to the website of the destination. It was made on a Java file and had the data hardcoded onto the file.
+For the improvement, I linked a SQLite database to hold the information of the destinations and free up space on the coded file. I used Visual Studio Code to make the modifications for the slideshow and I connected that to the database. Once I connected the database, I made the modification of adding CRUD functions to the slideshow to help the admin easily alter the data without having to go onto VS code and it would update automatically onto the database. The design was slightly modified but I left it open and not overly complicated to make the software scalable and manageable.    
 
 ## Enhancement Two
 
