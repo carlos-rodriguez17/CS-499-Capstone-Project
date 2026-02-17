@@ -17,7 +17,7 @@ For the improvement, I linked a SQLite database to hold the information of the d
 </picture>
 
 ## Enhancement Two
-My second enhancement will continue to be working through the CS 250 slide show project. This enhancement will focus on the algorithm and data structures of the system. I made the adjustments on this Java file through my Visual Studio Code system. The modifications I made for it was I added filters to help sort the slideshow and make it easier to find.   
+My second enhancement will continue to be working through the CS 250 slide show project. This enhancement will focus on the algorithm and data structures of the system. I made the adjustments on this Java file through my Visual Studio Code system. The modifications I made for it was I added filters to help sort the slideshow and make it easier to find.    
 
 ## Enhancement Three
 
