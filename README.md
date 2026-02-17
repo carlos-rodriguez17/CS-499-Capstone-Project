@@ -1,26 +1,25 @@
-# CS-499-Capstone-Project
-## Overview
-Hello welcome to my CS 499 Capstone Project. I will be talking about my three enhancements for the projects that I have worked on at SNHU. My first two enhancements will be from my CS 250 Software Development Lifecycle class and the last one will be from my DAD 220 Introduction to SQL class. I will break it down each section, as follows:
- - [Enhancement One](#enhancement-one)
- - [Enhancement Two](#enhancement-two)
- - [Enhancement Three](#enhancement-three)
- - [Code Review](#code-review)
- - [Professional Self Assessment](#professional-self-assessment)
+### What is this?
+This `README.md` file is auto-created for all new projects.
 
-## Enhancement One
-My CS 250 - Software Development Lifecycle course project was a slide show that included 5 top destinations that I did for my SNHU travel project. Within each slide show, it stated the location and small description. Also, on each slide you could click on the image and it would redirect you to the website of the destination. It was made on a Java file that had the data hardcoded onto the code and generates a JAR file with all .
-For the improvement, I linked a SQLite database to hold the information of the destinations and free up space on the coded file. I used Visual Studio Code to make the modifications for the slideshow and I connected that to the database. Once I connected the database, I made the modification of adding CRUD functions to the slideshow to help the admin easily alter the data without having to go onto VS code and it would update automatically onto the database. The design was slightly modified but I left it open and not overly complicated to make the software scalable and manageable.
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+### Why am I here?
+This file opens automatically when you open a project. 
 
-## Enhancement Two
-My second enhancement will continue to be working through the CS 250 slide show project. This enhancement will focus on the algorithm and data structures of the system. I made the adjustments on this Java file through my Visual Studio Code system. The modifications I made for it was I added filters to help sort the slideshow and make it easier to find.    
+If you do not create Guides, this `README.md` will be what automatically opens for students. You can edit this file by clicking on the pencil icon in the upper right corner.
 
-## Enhancement Three
+### How do I get started with Codio?
+Use this [Onboarding Guide](https://codio.com/home/starter-packs/2ae8501b-e5f7-4b07-8e9f-adb155fc6d10) for an interactive tutorial through the main features of Codio. Click on the link, click **Use Pack** and then click **Create** to add it to your projects.
 
-## Code Review
+### How do I close this file?
+At the top of your workspace you will see tabs for each open file. Click the x on the right hand side of the tab that says **README.md**.
+![readMeTab](https://global.codio.com/platform/readme.resources/readMeTab.png)
 
-## Professional Self Assessment
+### I expected to see or edit learning materials.
+Select **Tools->Guide->Play** to view the Guide for this project.
+![playGuide](https://global.codio.com/platform/readme.resources/playGuide.png)
+
+Click on the **Open Guides Editor** icon to edit the Guide.
+![guideEdit](https://global.codio.com/platform/readme.resources/guideEdit.png)
+
+### How do I delete this file?
+To delete this `README.md` file, right-click (ctrl-click on a Mac) on the file name in the file list.
+![fileTree](https://global.codio.com/platform/readme.resources/fileTree.png)
