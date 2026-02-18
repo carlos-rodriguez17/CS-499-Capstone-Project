@@ -15,7 +15,7 @@ For the improvement, I linked a SQLite database to hold the information of the d
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
-[_slide_show](main/_slide_show/mysqlsampledatabase.sql)
+[_slide_show](_slide_show)
 
 ## Enhancement Two
 My second enhancement will continue to be working through the CS 250 slide show project. This enhancement will focus on the algorithm and data structures of the system. I made the adjustments on this Java file through my Visual Studio Code system. The modifications I made for it was I added filters to help sort the slideshow and make it easier to find.    
