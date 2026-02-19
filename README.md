@@ -10,6 +10,8 @@ Hello welcome to my CS 499 Capstone Project. I will be talking about my three en
 ## Enhancement One
 My CS 250 - Software Development Lifecycle course project was a slide show that included 5 top destinations that I did for my SNHU travel project. Within each slide show, it stated the location and small description. Also, on each slide you could click on the image and it would redirect you to the website of the destination. It was made on a Java file that had the data hardcoded onto the code and generates a JAR file with all .
 For the improvement, I linked a SQLite database to hold the information of the destinations and free up space on the coded file. I used Visual Studio Code to make the modifications for the slideshow and I connected that to the database. Once I connected the database, I made the modification of adding CRUD functions to the slideshow to help the admin easily alter the data without having to go onto VS code and it would update automatically onto the database. The design was slightly modified but I left it open and not overly complicated to make the software scalable and manageable.
+[cs_250](https://github.com/carlos-rodriguez17/CS-499-Capstone-Project/tree/main/slide_show/cs_250)
+
 [enhancement_one](https://github.com/carlos-rodriguez17/CS-499-Capstone-Project/tree/main/slide_show/enhancement_one)
 
 <picture>
