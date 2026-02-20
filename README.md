@@ -28,5 +28,8 @@ My second enhancement will continue to be working through the CS 250 slide show 
 [enhancement_three](https://github.com/carlos-rodriguez17/CS-499-Capstone-Project/tree/main/_database/enhancement_three)
 
 ## Code Review
+Below is a link to the code review that I prepared for my enhancements. It highlights the code and what I plan to do to improve the systems:
+
+https://www.youtube.com/watch?v=jCEwjx5wlZU
 
 ## Professional Self Assessment
