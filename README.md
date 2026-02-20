@@ -8,13 +8,13 @@ Hello welcome to my CS 499 Capstone Project. I will be talking about my three en
  - [Professional Self Assessment](#professional-self-assessment)
 
 ## Enhancement One
-My CS 250 - Software Development Lifecycle course project was a slide show that included 5 top destinations that I did for my SNHU travel project. Within each slide show, it stated the location and small description. Also, on each slide you could click on the image and it would redirect you to the website of the destination. It was made on a Java file that had the data hardcoded onto the code and generates a JAR file with all the slides with a previous and next button. Here is the example of it :
+My CS 250 - Software Development Lifecycle course project was a slide show that included 5 top destinations that I did for my SNHU travel project. Within each slide show, it stated the location and small description. Also, on each slide you could click on the image and it would redirect you to the website of the destination. It was made on a Java file that had the data hardcoded onto the code and generates a JAR file with all the slides with a previous and next button. Here is the example of it and a link with the files [cs_250](https://github.com/carlos-rodriguez17/CS-499-Capstone-Project/tree/main/slide_show/cs_250):
 <img width="776" height="578" alt="image" src="https://github.com/user-attachments/assets/b55ce5eb-dccf-4730-a254-34b2a45841d4" />
 
-For the improvement, I linked a SQLite database to hold the information of the destinations and free up space on the coded file. I used Visual Studio Code to make the modifications for the slideshow and I connected that to the database. Once I connected the database, I made the modification of adding CRUD functions to the slideshow to help the admin easily alter the data without having to go onto VS code and it would update automatically onto the database. The design was slightly modified but I left it open and not overly complicated to make the software scalable and manageable.
-[cs_250](https://github.com/carlos-rodriguez17/CS-499-Capstone-Project/tree/main/slide_show/cs_250)
+For the improvement, I linked a SQLite database to hold the information of the destinations and free up space on the coded file. I used Visual Studio Code to make the modifications for the slideshow and I connected that to the database. Once I connected the database, I made the modification of adding CRUD functions to the slideshow to help the admin easily alter the data without having to go onto VS code and it would update automatically onto the database. The design was slightly modified but I left it open and not overly complicated to make the software scalable and manageable. Here is an example of the new updated slideshow and the codes [enhancement_one](https://github.com/carlos-rodriguez17/CS-499-Capstone-Project/tree/main/slide_show/enhancement_one):
+<img width="746" height="597" alt="image" src="https://github.com/user-attachments/assets/48f7c171-4e43-4fde-b634-79b68c7f437d" />
 
-[enhancement_one](https://github.com/carlos-rodriguez17/CS-499-Capstone-Project/tree/main/slide_show/enhancement_one)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
