@@ -22,7 +22,12 @@ My second enhancement will continue to be working through the CS 250 slide show 
 
 
 ## Enhancement Three
-[enhancement_three](https://github.com/carlos-rodriguez17/CS-499-Capstone-Project/tree/main/_database/enhancement_three)
+[enhancement_three](https://github.com/carlos-rodriguez17/CS-499-Capstone-Project/tree/main/_database/enhancement_three):
+
+<img width="1440" height="856" alt="image" src="https://github.com/user-attachments/assets/c78b92ec-c625-4916-b226-faeac263cca0" />
+<img width="1440" height="857" alt="image" src="https://github.com/user-attachments/assets/9f2f079c-f929-4c51-a451-cbe30af0ecff" />
+
+
 
 ## Code Review
 Below is a link to the code review that I prepared for my enhancements. It highlights the code and what I plan to do to improve the systems:
