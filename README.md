@@ -17,6 +17,7 @@ For the improvement, I linked a SQLite database to hold the information of the d
 ## Enhancement Two
 My second enhancement will continue to be working through the CS 250 slide show project. This enhancement will focus on the algorithm and data structures of the system. I made the adjustments on this Java file through my Visual Studio Code system. The modifications I made for it was I added filters to help sort the slideshow and make it easier to find, like alphabetical order, cost (low to high or high to low), rating (low to high or high to low). I gave it a more modern look to it and here is the example of it and the link with the files 
 [enhancement_two](https://github.com/carlos-rodriguez17/CS-499-Capstone-Project/tree/main/slide_show/enhancement_two):
+
 <img width="776" height="578" alt="image" src="https://github.com/user-attachments/assets/7bb7a44f-45c4-40b9-90ab-d40dbac0de62" />
 
 
