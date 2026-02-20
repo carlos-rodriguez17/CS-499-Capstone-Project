@@ -1,11 +1,13 @@
 # CS-499-Capstone-Project
 ## Overview
 Hello welcome to my CS 499 Capstone Project. I will be talking about my three enhancements for the projects that I have worked on at SNHU. My first two enhancements will be from my CS 250 Software Development Lifecycle class and the last one will be from my DAD 220 Introduction to SQL class. I will break it down each section, as follows:
+ - [Professional Self Assessment](#professional-self-assessment)
  - [Enhancement One](#enhancement-one)
  - [Enhancement Two](#enhancement-two)
  - [Enhancement Three](#enhancement-three)
  - [Code Review](#code-review)
- - [Professional Self Assessment](#professional-self-assessment)
+
+## Professional Self Assessment
 
 ## Enhancement One
 My CS 250 - Software Development Lifecycle course project was a slide show that included 5 top destinations that I did for my SNHU travel project. Within each slide show, it stated the location and small description. Also, on each slide you could click on the image and it would redirect you to the website of the destination. It was made on a Java file that had the data hardcoded onto the code and generates a JAR file with all the slides with a previous and next button. Here is the example of it and a link with the files [cs_250](https://github.com/carlos-rodriguez17/CS-499-Capstone-Project/tree/main/slide_show/cs_250):
@@ -38,5 +40,3 @@ To make it easier, I connected the database to MongoDB and created a HTML 4000 f
 Below is a link to the code review that I prepared for my enhancements. It highlights the code and what I plan to do to improve the systems:
 
 https://www.youtube.com/watch?v=jCEwjx5wlZU
-
-## Professional Self Assessment
