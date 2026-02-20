@@ -22,7 +22,12 @@ My second enhancement will continue to be working through the CS 250 slide show 
 
 
 ## Enhancement Three
+My third enhancement is from my DAD 220 - Intro to SQL class and it is a project about customers data and car sales/ parts throughout the US. The database was developed using SQL and through Codio. Here is an example of it and the files
 [enhancement_three](https://github.com/carlos-rodriguez17/CS-499-Capstone-Project/tree/main/_database/enhancement_three):
+
+<img width="1438" height="862" alt="image" src="https://github.com/user-attachments/assets/bf157f44-d0a4-4b56-ad01-39f0a02958b4" />
+
+To make it easier, I connected the database to MongoDB and created a HTML 4000 file to be able to update the data much easier. When creating the codes through Visual Studio Code, I was able to develop the database management below:
 
 <img width="1440" height="856" alt="image" src="https://github.com/user-attachments/assets/c78b92ec-c625-4916-b226-faeac263cca0" />
 <img width="1440" height="857" alt="image" src="https://github.com/user-attachments/assets/9f2f079c-f929-4c51-a451-cbe30af0ecff" />
